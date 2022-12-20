@@ -3,7 +3,7 @@
   </head>
   <body>
     <h1>Oxford 3000 Word Scraper</h1>
-    <p>This script uses the <code>requests</code> library to scrape the <a href="https://www.oxfordlearnersdictionaries.com/wordlist/english/oxford3000/Oxford3000_A-B">Oxford 3000</a> page and extract a list of words from it. The list is then saved to a CSV file.</p>
+    <p>This script uses the <code>requests</code> and <code>Beautiful Soup 4</code> libraries to scrape the <a href="https://www.oxfordlearnersdictionaries.com/wordlist/english/oxford3000/Oxford3000_A-B">Oxford 3000</a> page and extract a list of words from it. The list is then saved to a CSV file.</p>
     <h2>Requirements</h2>
     <ul>
       <li>Python 3</li>
